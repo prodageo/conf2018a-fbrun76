@@ -1,4 +1,4 @@
-# Titre
+# Résumé de la conférence "Angular & PWA : Mon site survit à l’apocalypse !"
 
 ## Cartouche d'identification
 
