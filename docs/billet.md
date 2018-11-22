@@ -14,7 +14,6 @@
  - Auteur du billet : François BRUN
  - Mots-clés : 
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : 
@@ -24,7 +23,8 @@
    - Partie 1
 
 ## Résumé
-...
+200 mots :
+
+
 
 ## Architecture et facteur qualité
-...
