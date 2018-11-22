@@ -2,10 +2,10 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
+ - Manifestation : CodeursEnSeine 2018
+ - Lieu : Kindarena Rouen
+ - Conférence : Angular & PWA : Mon site survit à l’apocalypse !
+ - Horaire de la conférence : 14h10
  - Durée de la conférence : ...
  - Conférencier(s) :
    - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
