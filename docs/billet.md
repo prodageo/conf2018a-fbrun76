@@ -5,14 +5,14 @@
  - Manifestation : CodeursEnSeine 2018
  - Lieu : Kindarena Rouen
  - Conférence : Angular & PWA : Mon site survit à l’apocalypse !
- - Horaire de la conférence : 14h10 - 1h
- - Durée de la conférence : ...
+ - Horaire de la conférence : 14h10 - 14h30
+ - Durée de la conférence : 20min
  - Conférencier(s) :
    - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
    - ...
- - Audience : ... participants
+ - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
- - Mots-clés : 
+ - Mots-clés : Angular, PWA, Apocalypse, Rapide
  - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
 
 ## Support
