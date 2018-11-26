@@ -8,8 +8,8 @@
  - Horaire de la conférence : 14h10 - 14h30
  - Durée de la conférence : 20min
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
+   - Cyril Lefebvre : https://www.linkedin.com/in/cyril-lefebvre-2a818294/?originalSubdomain=fr
+   - 
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
  - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable
