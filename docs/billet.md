@@ -13,7 +13,7 @@
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
  - Mots-clés : Angular, PWA, Apocalypse, Rapide
- - Illustration : (confPWA-image.jpg)
+ - Illustration : ![](confPWA-image.jpg)
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : 
