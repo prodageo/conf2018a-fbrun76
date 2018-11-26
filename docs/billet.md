@@ -12,7 +12,7 @@
    - ...
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
- - Mots-clés : Angular, PWA, Apocalypse, Rapide
+ - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable
  - Illustration : ![](confPWA-image.jpg)
 
 ## Support
