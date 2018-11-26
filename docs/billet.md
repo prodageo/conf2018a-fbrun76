@@ -9,7 +9,7 @@
  - Durée de la conférence : 20min
  - Conférencier(s) :
    - Cyril Lefebvre : https://www.linkedin.com/in/cyril-lefebvre-2a818294/?originalSubdomain=fr
-   - 
+   - Frédéric Jammes : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jammes-b2991331/
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
  - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable
