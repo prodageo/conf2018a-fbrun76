@@ -12,15 +12,19 @@
    - Frédéric Jammes : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jammes-b2991331/
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
- - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable
+ - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable, Fiable
  - Illustration : ![](confPWA-image.jpg)
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence : 
- - Nombre de diapos du support :
+ - Lien vers le support (diapos) présenté en conférence : https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w/videos
+ - Nombre de diapos du support : 14
  - Plan du support :
    - Intro
-   - Partie 1
+   - Mise en contexte
+   - Présentation de l'architecture utilisée
+   - Démonstration
+   - Présentation des avantages des PWA
+   - Conclusion
 
 ## Résumé
 200 mots :
@@ -28,3 +32,4 @@
 
 
 ## Architecture et facteur qualité
+Reliability (fiabilité) 
