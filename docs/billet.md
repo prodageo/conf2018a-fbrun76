@@ -27,7 +27,7 @@
    - Conclusion
 
 ## Résumé
-200 mots :
+200 mots (~16 lignes) :
 
 
 
