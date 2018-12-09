@@ -12,7 +12,7 @@
    - Frédéric Jammes : https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jammes-b2991331/
  - Audience : Environ 100 participants
  - Auteur du billet : François BRUN
- - Mots-clés : Angular, PWA, Apocalypse, Rapide, Installable, Fiable
+ - Mots-clés : Angular, PWA, Application, Apocalypse, Survie, Rapide, Installable, Fiable
  - Illustration : ![](confPWA-image.jpg)
 
 ## Support
@@ -28,6 +28,10 @@
 
 ## Résumé
 200 mots (~16 lignes) :
+
+L'apocalypse est arrivée, que faire ? Les conférenciers répondent à cette question simplement : il nous faut un site web pour continuer à informer les gens et leur proposer des guides de survie ! Le cahier des charges est simple : il faut que ce site soit rapide à mettre en oeuvre et qu'il soit fiable. Ainsi, même en cas de coupure Internet, il faut que les utilisateurs puissent continuer à utiliser l'application. La solution que présente cette conférence pour répondre à ce cahier des charges : une application Angular en Progressive Web App (PWA).
+
+
 
 
 
