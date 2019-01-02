@@ -27,7 +27,6 @@
    - Conclusion
 
 ## Résumé
-200 mots (~16 lignes) :
 
 L'apocalypse est arrivée, que faire ? Les conférenciers répondent à cette question simplement : il nous faut un site web pour continuer à informer les gens et leur proposer des guides de survie ! Le cahier des charges est simple : il faut que ce site soit rapide à mettre en oeuvre et qu'il soit fiable. Ainsi, même en cas de coupure Internet, il faut que les utilisateurs puissent continuer à utiliser l'application. La solution que présente cette conférence pour répondre à ce cahier des charges : une application Angular en Progressive Web App (PWA).
 
