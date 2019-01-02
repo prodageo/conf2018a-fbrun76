@@ -19,7 +19,7 @@
  - Lien vers le support (diapos) présenté en conférence : https://www.youtube.com/channel/UCWujmG5rANxJI0nHbMFs08w/videos
  - Nombre de diapos du support : 14
  - Plan du support :
-   - Intro
+   - Introduction
    - Mise en contexte
    - Présentation de l'architecture utilisée
    - Démonstration
@@ -31,9 +31,10 @@
 
 L'apocalypse est arrivée, que faire ? Les conférenciers répondent à cette question simplement : il nous faut un site web pour continuer à informer les gens et leur proposer des guides de survie ! Le cahier des charges est simple : il faut que ce site soit rapide à mettre en oeuvre et qu'il soit fiable. Ainsi, même en cas de coupure Internet, il faut que les utilisateurs puissent continuer à utiliser l'application. La solution que présente cette conférence pour répondre à ce cahier des charges : une application Angular en Progressive Web App (PWA).
 
-
+Après cette introduction et mise en contexte, l'architecture est détaillée : 
 
 
 
 ## Architecture et facteur qualité
-Reliability (fiabilité) 
+
+Le facteur qualité mis en évidence dans cette conférence est le facteur Reliability (fiabilité). En effet, comme présenté dans le résumé, l'avantage des PWA est qu'elles permettent à l'utilisateur d'y accéder même hors connexion. Cette indépendance de la connexion permet aux PWA d'être bien plus fiables que les applications classiques puisqu'elles continuent de fonctionner même lorsque l'utilisateur passe dans des zones sans connexion (tunnels, zones blanches, ...).
